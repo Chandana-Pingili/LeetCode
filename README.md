@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chandana-Pingili/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Chandana-Pingili/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandana-Pingili/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/Chandana-Pingili/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Chandana-Pingili/LeetCode/tree/master/0179-largest-number) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Chandana-Pingili/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Chandana-Pingili/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/Chandana-Pingili/LeetCode/tree/master/0179-largest-number) |
 ## Greedy
 |  |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chandana-Pingili/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Chandana-Pingili/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

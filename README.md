@@ -17,6 +17,7 @@
 | [0013-roman-to-integer](https://github.com/Chandana-Pingili/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Chandana-Pingili/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandana-Pingili/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Chandana-Pingili/LeetCode/tree/master/0043-multiply-strings) |
 | [0179-largest-number](https://github.com/Chandana-Pingili/LeetCode/tree/master/0179-largest-number) |
 ## Greedy
 |  |
@@ -73,6 +74,7 @@
 | [0007-reverse-integer](https://github.com/Chandana-Pingili/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Chandana-Pingili/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Chandana-Pingili/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Chandana-Pingili/LeetCode/tree/master/0043-multiply-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chandana-Pingili/LeetCode/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Chandana-Pingili/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->

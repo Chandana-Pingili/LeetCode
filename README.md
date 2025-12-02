@@ -75,4 +75,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Chandana-Pingili/LeetCode/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Chandana-Pingili/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Chandana-Pingili/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

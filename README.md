@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Chandana-Pingili/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandana-Pingili/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/Chandana-Pingili/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Chandana-Pingili/LeetCode/tree/master/0179-largest-number) |
@@ -29,6 +30,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Chandana-Pingili/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Chandana-Pingili/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Chandana-Pingili/LeetCode/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Chandana-Pingili/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

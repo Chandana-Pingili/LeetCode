@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandana-Pingili/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chandana-Pingili/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Chandana-Pingili/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/Chandana-Pingili/LeetCode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Chandana-Pingili/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Chandana-Pingili/LeetCode/tree/master/0179-largest-number) |
 ## String
@@ -75,6 +76,7 @@
 | [0009-palindrome-number](https://github.com/Chandana-Pingili/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Chandana-Pingili/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Chandana-Pingili/LeetCode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/Chandana-Pingili/LeetCode/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |

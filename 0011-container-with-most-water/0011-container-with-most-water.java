@@ -1,0 +1,23 @@
+import java.lang.Math;
+class Solution {
+    public int maxArea(int[] height) {
+        int max_area=0;
+        int i=0;
+        int j=(height.length)-1;
+        int area;
+        while(i<=j)
+        {
+            area=Math.min(height[i],height[j])*(j-i);
+            max_area=Math.max(area,max_area);
+            if(height[i]<=height[j])
+            {
+                i++;
+            }
+            else
+            {
+                j--;
+            }
+        }
+        return max_area;
+    }
+}

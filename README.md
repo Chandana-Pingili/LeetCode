@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Chandana-Pingili/LeetCode/tree/master/0013-roman-to-integer) |
 | [0179-largest-number](https://github.com/Chandana-Pingili/LeetCode/tree/master/0179-largest-number) |
 ## Greedy
 |  |
@@ -23,6 +24,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Chandana-Pingili/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Chandana-Pingili/LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandana-Pingili/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Chandana-Pingili/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
